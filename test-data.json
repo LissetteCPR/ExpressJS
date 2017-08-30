@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+     "id": 1,
+      "name": "Christian",
+      "lastname":"Valencia",
+      "nickname": "Chris"
+    },
+    {
+      "id": 2,
+      "name": "Noelia",
+      "lastname":"Villacis",
+      "nickname":"Noe"
+    },
+    {
+      "id": 3,
+      "name": "Manuel",
+      "lastname":"Cevallos",
+      "nickname":"Manuel"
+    }
+  ]
+}
